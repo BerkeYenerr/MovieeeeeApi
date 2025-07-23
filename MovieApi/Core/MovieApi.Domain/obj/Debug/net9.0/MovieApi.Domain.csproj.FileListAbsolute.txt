@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\user\Desktop\gerçek son\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll

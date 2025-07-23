@@ -1,0 +1,53 @@
+﻿@model List<MovieApi.Dto.Dtos.MovieDtos.ResultMovieDto>
+
+
+
+@{
+
+    ViewData["Title"] = "MovieSearch";
+
+    Layout = "~/Views/UserWebUILayout/LayoutUI.cshtml";
+
+}
+
+
+
+<div class="movie-list">
+
+    @if (Model != null && Model.Any())
+
+    {
+
+        foreach (var movie in Model)
+
+        {
+
+            <div class="movie-item">
+
+                <img src="@movie.CoverImageUrl" alt="@movie.Title" />
+
+                <h4>@movie.Title</h4>
+
+                <p>@movie.Description</p>
+
+                <p>Reyting: @movie.Rating</p>
+
+                <p>Çıkış Yılı: @movie.ReleaseDate</p>
+
+                <a href="@Url.Action("MovieDetail", "Movie", new { id = movie.MovieId })">Detaylar</a>
+
+            </div>
+
+        }
+
+    }
+
+    else
+
+    {
+
+        <p>Aradığınız kriterlere uygun film bulunamadı.</p>
+
+    }
+
+</div>

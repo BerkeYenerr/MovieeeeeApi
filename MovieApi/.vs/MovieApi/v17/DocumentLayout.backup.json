@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\frontends\\movieapi.webui\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\commands\\moviecommands\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\commands\\moviecommands\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\handlers\\moviehandlers\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\moviesearchhandlers\\searchmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\moviesearchhandlers\\searchmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\results\\movieresults\\getmoviebyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\results\\movieresults\\getmoviebyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\commands\\moviecommands\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\commands\\moviecommands\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\frontends\\movieapi.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\views\\movie\\moviedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\frontends\\movieapi.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\frontends\\movieapi.webui\\controllers\\moviesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2525B93C-CA67-4BBA-B4BC-1C4DEC146477}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\controllers\\moviesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\core\\movieapi.application\\features\\cqrsdesingpattern\\queries\\moviequeries\\searchmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4516B8-3881-4C8B-A5DD-93CE795DD305}|Core\\MovieApi.Application\\MovieApi.Application.csproj|solutionrelative:core\\movieapi.application\\features\\cqrsdesingpattern\\queries\\moviequeries\\searchmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CECB72C-92D0-471B-BB67-6D199F3841F4}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|c:\\users\\berke yener\\desktop\\trt staj projesi\\movieapi\\presentation\\movieapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CECB72C-92D0-471B-BB67-6D199F3841F4}|Presentation\\MovieApi.WebApi\\MovieApi.WebApi.csproj|solutionrelative:presentation\\movieapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieList.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:01:17.082Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetMovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:07:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\CreateMovieCommand.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\CreateMovieCommand.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\CreateMovieCommand.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\CreateMovieCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:09:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:06:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchMovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\MovieSearchHandlers\\SearchMovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\MovieSearchHandlers\\SearchMovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\MovieSearchHandlers\\SearchMovieQueryHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\MovieSearchHandlers\\SearchMovieQueryHandler.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:32:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMovieByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Handlers\\MovieHandlers\\GetMovieByIdQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:06:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetMovieByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Results\\MovieResults\\GetMovieByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Results\\MovieResults\\GetMovieByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Results\\MovieResults\\GetMovieByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Results\\MovieResults\\GetMovieByIdQueryResult.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:01:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\UpdateMovieCommand.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\UpdateMovieCommand.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\UpdateMovieCommand.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Commands\\MovieCommands\\UpdateMovieCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:10:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\appsettings.json",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T07:10:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieDetail.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieDetail.cshtml",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieDetail.cshtml",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieDetail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:44:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieSearch.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Controllers\\MovieSearch.cs",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Controllers\\MovieSearch.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Frontends\\MovieApi.WebUI\\Controllers\\MovieSearch.cs",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Controllers\\MovieSearch.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:14:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchMoviesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Queries\\MovieQueries\\SearchMoviesQuery.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Queries\\MovieQueries\\SearchMoviesQuery.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Queries\\MovieQueries\\SearchMoviesQuery.cs",
+              "RelativeToolTip": "Core\\MovieApi.Application\\Features\\CQRSDesingPattern\\Queries\\MovieQueries\\SearchMoviesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:36:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\MovieApi.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\berke yener\\Desktop\\Trt Staj Projesi\\MovieApi\\Presentation\\MovieApi.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\MovieApi.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:26:13.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

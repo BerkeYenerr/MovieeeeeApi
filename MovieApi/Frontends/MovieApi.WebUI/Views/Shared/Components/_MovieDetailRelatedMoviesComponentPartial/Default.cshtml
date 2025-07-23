@@ -1,0 +1,47 @@
+﻿@model MovieApi.Dto.Dtos.MovieDtos.ResultMovieDetailsDto
+
+<div id="moviesrelated" class="tab">
+	<div class="row">
+		<h3>Benzer Filmler</h3>
+		<h2>@Model.Title</h2>
+		<div class="topbar-filter">
+			<p>Toplamda <span>12 film</span> bulundu</p>
+			<label>Sıralamaya göre:</label>
+			<select>
+				<option value="popularity">Popüleriteye göre azalan</option>
+				<option value="popularity">Popüleriteye göre artan</option>
+				<option value="rating">Puana göre azalan</option>
+				<option value="rating">Puana göre artan</option>
+				<option value="date">Çıkış Yılına Göre Azalan</option>
+				<option value="date">Çıkış Yılına Göre Artan</option>
+			</select>
+		</div>
+		@foreach (var item in Model.resultMovieDtos)
+		{
+			<div class="movie-item-style-2">
+				<img src="@item.CoverImageUrl" alt="">
+				<div class="mv-item-infor">
+					<h6><a href="/Movie/MovieDetail/@item.MovieId">@item.Title <span>(@item.CreatedYear)</span></a></h6>
+					<p class="rate"><i class="ion-android-star"></i><span>@item.Rating</span> /10</p>
+					<p class="describe">@item.Description</p>
+					<p class="run-time"> Run Time: @item.Duration dk’    .     <span>MMPA: PG-13 </span>    .     <span>Çıkış Tarihi: @item.ReleaseDate</span></p>
+					<p>Yönetmen: <a href="#">Joss Whedon</a></p>
+					<p>Oyuncular: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">  Chris Hemsworth</a></p>
+				</div>
+			</div>
+		}
+		<div class="topbar-filter">
+			<label>Sayfaya Göre Filmler:</label>
+			<select>
+				<option value="range">5 Film</option>
+				<option value="saab">10 Film</option>
+			</select>
+			<div class="pagination2">
+				<span>Sayfa 1 - 2:</span>
+				<a class="active" href="#">1</a>
+				<a href="#">2</a>
+				<a href="#"><i class="ion-arrow-right-b"></i></a>
+			</div>
+		</div>
+	</div>
+</div>

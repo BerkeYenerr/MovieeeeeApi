@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MovieApi.WebUI
+build_property.RootNamespace = MovieApi.WebUI
+build_property.ProjectDir = C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Frontends\MovieApi.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Frontends\MovieApi.WebUI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Movie/MovieSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Register/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailCastComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsQ2FzdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailMediaComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsTWVkaWFDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailOverviewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsT3ZlcnZpZXdDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailRateComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsUmF0ZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailRelatedMoviesComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsUmVsYXRlZE1vdmllc0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailReviewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsUmV2aWV3Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieDetailShareSocialMediaComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllRGV0YWlsU2hhcmVTb2NpYWxNZWRpYUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_MovieImageAndWatchTrailerComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01vdmllSW1hZ2VBbmRXYXRjaFRyYWlsZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUIFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSUZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUIHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSUhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUIHeroComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSUhlcm9Db21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUILoginModalComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSUxvZ2luTW9kYWxDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUINavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSU5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUIPreloaderComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSVByZWxvYWRlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Components/_UserLayoutWebUIRegisterModalComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VzZXJMYXlvdXRXZWJVSVJlZ2lzdGVyTW9kYWxDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/UserWebUILayout/LayoutUI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcldlYlVJTGF5b3V0XExheW91dFVJLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berke yener/Desktop/Trt Staj Projesi/MovieApi/Frontends/MovieApi.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oqneh3bw23

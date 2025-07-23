@@ -1,0 +1,112 @@
+﻿[
+  {
+    "title": "Inception",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+    "rating": 8.8,
+    "description": "Bir hırsız, rüya içinde rüya yaparak bilinçaltına sızar ve karmaşık zihin oyunlarıyla gerçekliği sorgulatan bir göreve çıkar. Bilinç ve bilinçaltı arasındaki ince çizgide ilerleyen heyecan dolu bir bilim kurgu.",
+    "duration": 148,
+    "releaseDate": "2010-07-16T00:00:00Z",
+    "createDate": 2010,
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "rating": 9.3,
+    "description": "Haksız yere ömür boyu hapse mahkum edilen Andy, Shawshank hapishanesinde yıllarca süren dostluklar, umut ve özgürlük arayışını anlatan unutulmaz bir drama filmidir.",
+    "duration": 142,
+    "releaseDate": "1994-09-23T00:00:00Z",
+    "createDate": 1994,
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Dark Knight",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "rating": 9.0,
+    "description": "Batman, Gotham şehrini terörist Joker’in kaotik planlarından korumak için sınırlarını zorlar. Karmaşık karakterler ve aksiyon dolu sahnelerle unutulmaz bir süper kahraman hikayesi.",
+    "duration": 152,
+    "releaseDate": "2008-07-18T00:00:00Z",
+    "createDate": 2008,
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Pulp Fiction",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "rating": 8.9,
+    "description": "Karmaşık hikayeler ve sıradışı karakterlerin iç içe geçtiği bu kült film, şiddet, mizah ve beklenmedik olaylarla dolu benzersiz bir Tarantino klasiğidir.",
+    "duration": 154,
+    "releaseDate": "1994-10-14T00:00:00Z",
+    "createDate": 1994,
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Forrest Gump",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "rating": 8.8,
+    "description": "Zeka seviyesi düşük ama saf kalpli Forrest, tarihin önemli olaylarına şahit olurken sevgi, dostluk ve hayatın anlamı üzerine dokunaklı bir hikaye sunuyor.",
+    "duration": 142,
+    "releaseDate": "1994-07-06T00:00:00Z",
+    "createDate": 1994,
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Matrix",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "rating": 8.7,
+    "description": "Gerçeklik ve illüzyonun sınırlarının bulanıklaştığı bir dünyada Neo, makineler tarafından kontrol edilen simüle edilmiş gerçekliği yıkmak için savaşır.",
+    "duration": 136,
+    "releaseDate": "1999-03-31T00:00:00Z",
+    "createDate": 1999,
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "Interstellar",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "rating": 8.6,
+    "description": "Dünya yaşanamaz hale gelirken bir grup astronot, insanlığın geleceğini kurtarmak için uzayın derinliklerinde yeni bir yaşam arayışına çıkar.",
+    "duration": 169,
+    "releaseDate": "2014-11-07T00:00:00Z",
+    "createDate": 2014,
+    "createdYear": "2014",
+    "status": true
+  },
+  {
+    "title": "Gladiator",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "rating": 8.5,
+    "description": "Roma İmparatorluğu döneminde general Maximus, ihanete uğrayıp köle olur ancak arenada hayatı ve onuru için verdiği mücadeleyle efsaneleşir.",
+    "duration": 155,
+    "releaseDate": "2000-05-05T00:00:00Z",
+    "createDate": 2000,
+    "createdYear": "2000",
+    "status": true
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "rating": 8.8,
+    "description": "Orta Dünya'da bir grup kahraman, karanlık güçlere karşı mücadele ederken, yüzüğü yok ederek dünyayı kurtarmak için zorlu bir yolculuğa çıkarlar.",
+    "duration": 178,
+    "releaseDate": "2001-12-19T00:00:00Z",
+    "createDate": 2001,
+    "createdYear": "2001",
+    "status": true
+  },
+  {
+    "title": "Fight Club",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "rating": 8.8,
+    "description": "Hayattan sıkılan bir adam, karizmatik bir yabancıyla gizli dövüş kulübü kurar. Kimlik, toplum ve tüketim üzerine kışkırtıcı ve çarpıcı bir psikolojik drama.",
+    "duration": 139,
+    "releaseDate": "1999-10-15T00:00:00Z",
+    "createDate": 1999,
+    "createdYear": "1999",
+    "status": true
+  }
+]

@@ -1,0 +1,34 @@
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.deps.json
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.runtimeconfig.json
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.pdb
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.AssemblyInfo.cs
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.71805FD3.Up2Date
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\refint\MovieApi.Persistence.dll
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.pdb
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.genruntimeconfig.cache
+C:\Users\user\Desktop\gerçek son\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\ref\MovieApi.Persistence.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.csproj.AssemblyReference.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.AssemblyInfoInputs.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.AssemblyInfo.cs
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\refint\MovieApi.Persistence.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.pdb
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.deps.json
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.runtimeconfig.json
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Persistence.pdb
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.71805FD3.Up2Date
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\MovieApi.Persistence.genruntimeconfig.cache
+C:\Users\berke yener\Desktop\Trt Staj Projesi\MovieApi\Infrastructure\MovieApi.Persistence\obj\Debug\net9.0\ref\MovieApi.Persistence.dll

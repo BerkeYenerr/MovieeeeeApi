@@ -1,0 +1,112 @@
+﻿[
+  {
+    "title": "Breaking Bad",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "rating": 9.5,
+    "description": "Kimya öğretmeni Walter White, ölümcül hastalığını öğrendikten sonra ailesinin geleceğini güvence altına almak için uyuşturucu üretimine başlar. Ahlak, güç ve dönüşüm temalarını işleyen çarpıcı bir drama.",
+    "duration": 47,
+    "releaseDate": "2008-01-20T00:00:00Z",
+    "createDate": 2008,
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Stranger Things",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "rating": 8.7,
+    "description": "80'lerde küçük bir kasabada kaybolan bir çocuğun ardından, doğaüstü olaylar ve gizli hükümet deneyleri ortaya çıkar. Arkadaşlık, gizem ve macera dolu kült bir bilim kurgu dizisi.",
+    "duration": 51,
+    "releaseDate": "2016-07-15T00:00:00Z",
+    "createDate": 2016,
+    "createdYear": "2016",
+    "status": true
+  },
+  {
+    "title": "Game of Thrones",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "rating": 9.3,
+    "description": "Ortaçağ esintili Westeros krallığında taht oyunları, ihanetler ve epik savaşlar yaşanır. Güç, ihanet ve aile temalarıyla, unutulmaz karakterlerin hayatlarını konu alan destansı bir dizi.",
+    "duration": 57,
+    "releaseDate": "2011-04-17T00:00:00Z",
+    "createDate": 2011,
+    "createdYear": "2011",
+    "status": true
+  },
+  {
+    "title": "The Crown",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w3E5Q2vW2xMJOLr90ve7QNsWnXD.jpg",
+    "rating": 8.6,
+    "description": "İngiltere Kraliçesi II. Elizabeth'in hayatı ve saltanatı döneminde yaşanan siyasi ve kişisel zorluklar detaylı ve dramatik şekilde anlatılır. Tarihi drama severler için önemli bir yapım.",
+    "duration": 58,
+    "releaseDate": "2016-11-04T00:00:00Z",
+    "createDate": 2016,
+    "createdYear": "2016",
+    "status": true
+  },
+  {
+    "title": "The Mandalorian",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "rating": 8.5,
+    "description": "Star Wars evreninde geçen bu dizi, yalnız bir ödül avcısının galaksiyi dolaşırken küçük ve gizemli bir çocuğu korumasını konu alır. Macera, aksiyon ve fantastik öğelerle doludur.",
+    "duration": 35,
+    "releaseDate": "2019-11-12T00:00:00Z",
+    "createDate": 2019,
+    "createdYear": "2019",
+    "status": true
+  },
+  {
+    "title": "Friends",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+    "rating": 8.9,
+    "description": "New York'ta yaşayan altı arkadaşın günlük hayatları, ilişkileri ve eğlenceli maceraları. Komedi türünün en ikonik yapımlarından biri olarak yıllardır izleyicileri güldürmeye devam ediyor.",
+    "duration": 22,
+    "releaseDate": "1994-09-22T00:00:00Z",
+    "createDate": 1994,
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Witcher",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+    "rating": 8.2,
+    "description": "Canavar avcısı Geralt, kaderi ile savaşırken büyücüler, krallar ve canavarlarla dolu tehlikeli bir dünyada hayatta kalmaya çalışır. Fantastik edebiyat uyarlaması olarak dikkat çeker.",
+    "duration": 60,
+    "releaseDate": "2019-12-20T00:00:00Z",
+    "createDate": 2019,
+    "createdYear": "2019",
+    "status": true
+  },
+  {
+    "title": "Black Mirror",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6t3d59VtpPeI7AxA5iM9jbn8J8.jpg",
+    "rating": 8.8,
+    "description": "Teknolojinin karanlık yüzünü ve modern toplumun distopik geleceğini farklı hikayelerle anlatan antoloji türünde bir dizi. Her bölüm farklı karakter ve olayları konu alır.",
+    "duration": 60,
+    "releaseDate": "2011-12-04T00:00:00Z",
+    "createDate": 2011,
+    "createdYear": "2011",
+    "status": true
+  },
+  {
+    "title": "Narcos",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5cJpKkqjV8NVYXWJYpQXRtdGceE.jpg",
+    "rating": 8.8,
+    "description": "Kolombiya'nın en ünlü uyuşturucu baronu Pablo Escobar’ın yükselişi ve düşüşü anlatılır. Gerçek olaylardan uyarlanan dizi, suç, politika ve şiddet dolu bir yapım sunar.",
+    "duration": 49,
+    "releaseDate": "2015-08-28T00:00:00Z",
+    "createDate": 2015,
+    "createdYear": "2015",
+    "status": true
+  },
+  {
+    "title": "Sherlock",
+    "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg",
+    "rating": 9.1,
+    "description": "Modern zamanlarda geçen bu dizi, ünlü dedektif Sherlock Holmes ve yardımcısı Dr. Watson’un Londra’daki karmaşık suçları çözmelerini konu alır. Zekâ ve dram dolu hikayeler içerir.",
+    "duration": 90,
+    "releaseDate": "2010-07-25T00:00:00Z",
+    "createDate": 2010,
+    "createdYear": "2010",
+    "status": true
+  }
+]

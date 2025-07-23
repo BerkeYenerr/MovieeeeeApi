@@ -1,0 +1,136 @@
+﻿@model List<MovieApi.Dto.Dtos.MovieDtos.ResultMovieDto>
+
+@{
+    ViewData["Title"] = "MovieList";
+    Layout = "~/Views/UserWebUILayout/LayoutUI.cshtml";
+}
+
+<div class="page-single movie_list">
+    <div class="container">
+        <div class="row ipad-width2">
+            <div class="col-md-8 col-sm-12 col-xs-12">
+                <div class="topbar-filter">
+                    <p>Toplam <span>1,608 Film Mevcut</span></p>
+                    <label>Sıralama:</label>
+                    <select>
+                        <option value="popularity">Popüleriteye göre azalan</option>
+                        <option value="popularity">Popüleriteye göre artan</option>
+                        <option value="rating">Reytinge göre azalan</option>
+                        <option value="rating">Reytinge göre artan</option>
+                        <option value="date">Çıkış yılına göre azalan</option>
+                        <option value="date">Çıkış yılına göre artan</option>
+                    </select>
+                    <a href="movielist.html" class="list"><i class="ion-ios-list-outline active"></i></a>
+                    <a href="moviegrid.html" class="grid"><i class="ion-grid"></i></a>
+                </div>
+
+                @foreach (var item in Model)
+                {
+                    <div class="movie-item-style-2">
+                        <img src="@item.CoverImageUrl" alt="">
+                        <div class="mv-item-infor">
+                            <h6><a href="/Movie/MovieDetail/@item.MovieId">@item.Title <span>(@item.CreatedYear)</span></a></h6>
+                            <p class="rate"><i class="ion-android-star"></i><span>@item.Rating</span> /10</p>
+                            <p class="describe">@item.Description</p>
+                            <p class="run-time">Süre: @item.Duration dk. <span>MMPA: PG-13 </span> . <span>Çıkış Tarihi: @item.ReleaseDate</span></p>
+                            <p>Yönetmen: <a href="#">Joss Whedon</a></p>
+                            <p>Oyuncular: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">Chris Hemsworth</a></p>
+                        </div>
+                    </div>
+                }
+
+                <div class="topbar-filter">
+                    <label>Sayfaya Göre Filmler:</label>
+                    <select>
+                        <option value="range">5 Film</option>
+                        <option value="saab">10 Film</option>
+                    </select>
+                    <div class="pagination2">
+                        <span>Sayfa 1 - 2:</span>
+                        <a class="active" href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#"><i class="ion-arrow-right-b"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="sidebar">
+                    <div class="searh-form">
+                        <h4 class="sb-title">Arayacağınız Film</h4>
+                        <form class="form-style-1" method="get" action="@Url.Action("MovieSearch", "Movie")">
+                            <div class="row">
+                                <div class="col-md-12 form-it">
+                                    <label>Film Adı</label>
+                                    <input type="text" name="searchText" placeholder="Aranacak Film">
+                                </div>
+                                <div class="col-md-12 form-it">
+                                    <label>Türler</label>
+                                    <div class="group-ip">
+                                        <select name="genres" multiple class="ui fluid dropdown">
+                                            <option value="">Film Türü Seçiniz</option>
+                                            <option value="Action">Aksiyon</option>
+                                            <option value="Horror">Korku</option>
+                                            <option value="Comedy">Komedi</option>
+                                            <option value="Drama">Dram</option>
+                                            <option value="Romantic">Romantik</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 form-it">
+                                    <label>Reyting Puanı</label>
+                                    <select name="rating">
+                                        <option value="">-- Reyting Puanı Seçin --</option>
+                                        <option value="8">8 ve Üzeri</option>
+                                        <option value="5">5 - 8</option>
+                                        <option value="0">0 - 5</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-12 form-it">
+                                    <label>Çıkış Tarihi</label>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <select name="startYear">
+                                                <option value="2000">2000</option>
+                                                <option value="2010">2010</option>
+                                                <option value="2020">2020</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <select name="endYear">
+                                                <option value="2000">2000</option>
+                                                <option value="2010">2010</option>
+                                                <option value="2020">2020</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <input class="submit" type="submit" value="Film Ara">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+					<div class="ads">
+						<img src="/Film-Review-Movie-Database/images/uploads/ads1.png" alt="">
+					</div>
+					<div class="sb-facebook sb-it">
+						<h4 class="sb-title">Facebook Üzerinden Bize Ulaşın</h4>
+						<iframe src="#" data-src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftemplatespoint.net%2F%3Ffref%3Dts&tabs=timeline&width=340&height=315px&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" height="315" style="width:100%;border:none;overflow:hidden"></iframe>
+					</div>
+					<div class="sb-twitter sb-it">
+						<h4 class="sb-title">Tweet to us</h4>
+						<div class="slick-tw">
+							<div class="tweet item" id="">
+								<!-- Put your twiter id here -->
+							</div>
+							<div class="tweet item" id="">
+								<!-- Put your 2nd twiter account id here -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
